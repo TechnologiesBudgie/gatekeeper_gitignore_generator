@@ -23,3 +23,4 @@ python -m nuitka \
     --remove-output \
     gatekeeper.py
 ```
+*This software comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law.*
